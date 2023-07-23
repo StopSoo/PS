@@ -1,7 +1,7 @@
 import sys
 
 n = int(input())
-ans = [-1] * n
+ans = [-1] * n      # 오큰수 저장 배열을 애초에 -1로 초기화 
 A = list(map(int, input().split()))
 myStack = []
 
