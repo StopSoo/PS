@@ -46,9 +46,14 @@ mydeque = deque()
 now = list(map(int, input().split()))
 
 for i in range(N):
-    while mydeque and mydeque[-1][1] > now[i]:  # 덱이 비어있지 않고 덱의 마지막 원소가 다음에 들어올 값보다 크다면
+    while mydeque and mydeque[-1][0] > now[i]:  # 덱이 비어있지 않고 덱의 마지막 원소가 다음에 들어올 값보다 크다면
         mydeque.pop()
-    mydeque.append([i, now[i]])
+    mydeque.append((now[i], i))
     if mydeque[0][1] <= i-L:    # 윈도우 범위를 벗어나면
         mydeque.popleft()
-    print(mydeque[0][1], end=" ")
+    print(mydeque[0][0], end=" ")
+
+# 알아야 할 부분 
+# 파이썬에서는 튜플이 리스트보다 효율적이다 (!)
+# 메모리 초과 -> print 대신 sys.stdout.write 가능
+# deque 안 쓰고 list를 사용했을 때 시간 초과가 안 날 수 있다.
