@@ -25,14 +25,14 @@ int main() {
         // 투 포인터 알고리즘
         while (start < end) {
             if (A[start] + A[end] == find) {
-                if (start != k && end != k) {
+                if (start != k && end != k) {   // 두 수에 자신은 포함되면 안됨
                     result++;
                     break;
                 } else if (start == k) start++;
                 else if (end == k) end--;
             } else if (A[start] + A[end] > find)
                 end--;
-            else start++;
+            else start++;   // A[start] + A[end] < find
         }
     }
     cout << result << endl;
