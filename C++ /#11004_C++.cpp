@@ -31,6 +31,7 @@ int partition(vector<int> &arr, int s, int e) {
         // 두 내부 while문이 종료되었는데도 외부 while문이 살아있다면 아래 if문 실행
         if (i <= j) swap(arr, i++, j--);
     }
+    // * 중요 *
     arr[s] = arr[j];
     arr[j] = pivot;
 
@@ -38,13 +39,14 @@ int partition(vector<int> &arr, int s, int e) {
 }
 
 void quickSort(vector<int> &arr, int s, int e, int k) {
-    int pivot = partition(arr, s, e);   // pivot의 위치를 반환
+    int pivot = partition(arr, s, e);   // partition을 통해 pivot의 위치를 반환
     if (pivot == k) return;
     else if (k < pivot)
         quickSort(arr, s, pivot-1, k);  // pivot의 왼쪽 배열만 정렬
     else
         quickSort(arr, pivot+1, e, k);  // pivot의 오른쪽 배열만 정렬
 }
+
 int main() {
     // for fast I/O
     ios::sync_with_stdio(false);
