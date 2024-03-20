@@ -28,12 +28,12 @@ string solution(vector<string> storage, vector<int> num) {
     else{
       clean_num[clean_idx] += num[i];
     }
-}
+  }
 
-// 아래 코드에는 틀린 부분이 없습니다.
-int num_max = -1;
-string answer = "";
-for(int i=0; i<num_item; i++){
+  // 아래 코드에는 틀린 부분이 없습니다.  
+  int num_max = -1;
+  string answer = "";
+  for(int i=0; i<num_item; i++){
     if(clean_num[i] > num_max){
       num_max = clean_num[i];
       answer = clean_storage[i];
