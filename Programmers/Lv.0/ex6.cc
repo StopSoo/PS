@@ -8,6 +8,8 @@ vector<string> solution(vector<int> numbers, vector<int> our_score, vector<int> 
   vector<string> answer(num_student);
   
   for (int i = 0; i < num_student; i++) {
+    // * debugging
+    // if (our_score[i] == score_list[i]) {
     if (our_score[i] == score_list[numbers[i]-1]) {
       answer[i] = "Same";
     }
