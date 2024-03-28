@@ -21,19 +21,16 @@ int solution(vector<int> numbers) {
   return answer;
 }
 
-// * 비둘기집의 원리를 이용한 효율적인 모범 답안
+// 비둘기집의 원리를 이용한 효율적인 모범 답안
+#include <string>
+#include <vector>
 
-// #include <string>
-// #include <vector>
+using namespace std;
 
-// using namespace std;
-
-// int solution(vector<int> numbers) {
-
-//     int answer = 45;
-
-//     for (int i = 0 ; i < numbers.size() ; i++)
-//         answer -= numbers[i];
-
-//     return answer;
-// }
+int solution(vector<int> numbers) {
+  int answer = 45;
+  for (int i = 0 ; i < numbers.size() ; i++)
+    answer -= numbers[i];
+  
+  return answer;
+}
