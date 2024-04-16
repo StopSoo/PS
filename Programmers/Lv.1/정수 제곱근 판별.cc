@@ -17,3 +17,10 @@ long long solution(long long n) {
   }
   return answer;
 }
+
+// 좀 더 간결한 코드 => powl(!)
+long long solution(long long n) {
+  long long answer = sqrt(n);
+
+  return powl(answer, 2) == n ? powl(answer + 1, 2) : -1;
+}
