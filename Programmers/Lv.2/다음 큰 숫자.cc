@@ -36,3 +36,16 @@ int solution(int n) {
   
   return nextNumber;
 }
+
+// bitset을 이용한 더 간단한 방법
+// n이 100만까지이므로 20비트 이진수로 해결 가능 (!)
+#include <bitset>
+
+using namespace std;
+
+int solution(int n) {
+  int num = bitset<20>(n).count();  // 20비트 이진수로 변환 후 1의 개수를 셈
+
+  while (bitset<20>(++n).count() != num);
+  return n;
+}
