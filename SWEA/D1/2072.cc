@@ -6,12 +6,12 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	int test_case;
+  int test_case;
   int num;
   vector<int> results;
-	cin >> test_case;
+  cin >> test_case;
 
-	for (int i=0; i < test_case; i++) {
+  for (int i=0; i < test_case; i++) {
     int sum = 0;
     for (int j=0; j < 10; j++) {
       cin >> num;
@@ -24,5 +24,5 @@ int main(int argc, char** argv)
     cout << "#" << i+1 << " " << results[i] << endl;
   }
 
-	return 0;
+  return 0;
 }
