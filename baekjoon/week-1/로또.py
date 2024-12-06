@@ -25,6 +25,7 @@ while 1:
   print()
 
 # 파이썬의 조합 라이브러리를 활용하는 풀이 (*)
+# combinations(array, num): 모든 조합을 담은 객체를 반환. list로 형 변환해서 사용하기.
 from itertools import combinations
 
 while 1:
