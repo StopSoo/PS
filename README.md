@@ -42,6 +42,12 @@
   <br/>
     
   | 문제 | 코드 |
-  | :-----------: | :-----------: |
+  | :----------- | :-----------: |
+  | [백준_2562_최댓값](https://www.acmicpc.net/problem/2562) | [✔](https://github.com/StopSoo/PS/blob/main/baekjoon/week-2/최댓값.py) |
+  | [백준_11650_좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [✔](https://github.com/StopSoo/PS/blob/main/baekjoon/week-2/좌표정렬하기.py) |
+  | [백준_2503_숫자 야구](https://www.acmicpc.net/problem/2503) | [x](https://github.com/StopSoo/PS/blob/main/baekjoon/week-2/숫자야구.py) |
+  | [백준_10807_개수 세기](https://www.acmicpc.net/problem/10807) | [✔](https://github.com/StopSoo/PS/blob/main/baekjoon/week-2/개수세기.py) |
+  | [백준_10871_X보다 작은 수](https://www.acmicpc.net/problem/10871) | [✔](https://github.com/StopSoo/PS/blob/main/baekjoon/week-2/X보다작은수.py) |
+  | [백준_23246_Sport Climbing Combined](https://www.acmicpc.net/problem/23246) | [✔](https://github.com/StopSoo/PS/blob/main/baekjoon/week-2/SportClimbingCombined.py) |
   </div>
   </details>
