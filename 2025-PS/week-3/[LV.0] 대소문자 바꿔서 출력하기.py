@@ -19,6 +19,7 @@ print(input().swapcase())
 print(''.join(x.upper() if x == x.lower() else x.lower() for x in input()))
 
 # upper() / lower() 라이브러리 사용
+# upper(), lower() 함수는 해당 문자열을 변경하지 않고, 변경한 문자열을 반환함 (!)
 str = input()
 a = ''
 
