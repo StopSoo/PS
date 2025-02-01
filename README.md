@@ -66,5 +66,66 @@
   | [백준_1182_부분수열의 합](https://www.acmicpc.net/problem/1182) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/baekjoon/week-3/부분수열의합.py) |
   | [백준_1026_보물](https://www.acmicpc.net/problem/1026) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/baekjoon/week-3/보물.py) |
   | [백준_1342_행운의 문자열](https://www.acmicpc.net/problem/1342) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/baekjoon/week-3/행운의문자열.py) |
+  | [프로그래머스_LV.0_9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-3/%5BLV.0%5D%209로나눈나머지.py) |
+  | [프로그래머스_LV.0_대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-3/%5BLV.0%5D%20대소문자%20바꿔서%20출력하기.py) |
+  | [프로그래머스_LV.0_등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-3/%5BLV.0%5D%20등차수열의특정한항만더하기.py) |
+  | [프로그래머스_LV.0_수열과 구간 쿼리2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-3/%5BLV.0%5D%20수열과구간쿼리2.py) |
+  | [프로그래머스_LV.0_조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-3/%5BLV.0%5D%20조건문자열.py) |
+  | [프로그래머스_LV.0_코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-3/%5BLV.0%5D%20코드처리하기.py) |
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 4 (250120-250126)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [프로그래머스_LV.0_A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20A강조하기.py) |
+  | [프로그래머스_LV.0_가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20가까운1찾기.py) |
+  | [프로그래머스_LV.0_길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20길이에따른연산.py) |
+  | [프로그래머스_LV.0_문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20문자개수세기.py) |
+  | [프로그래머스_LV.0_문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20문자열뒤집기.py) |
+  | [프로그래머스_LV.0_문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20문자열이몇번등장하는지세기.py) |
+  | [프로그래머스_LV.0_배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20배열만들기2.py) |
+  | [프로그래머스_LV.0_배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20배열만들기4.py) |
+  | [프로그래머스_LV.0_왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20왼쪽오른쪽.py) |
+  | [프로그래머스_LV.0_주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20주사위게임2.py) |
+  | [프로그래머스_LV.0_특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-4/%5BLV.0%5D%20특정문자제거하기.py) |
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 5 (250127-250202)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [프로그래머스_LV.0_0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%200떼기.py) |
+  | [프로그래머스_LV.0_가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20가까운수.py) |
+  | [프로그래머스_LV.0_날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20날짜비교하기.py) |
+  | [프로그래머스_LV.0_다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20다항식더하기.py) |
+  | [프로그래머스_LV.0_문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20문자열밀기.py) |
+  | [프로그래머스_LV.0_배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20배열의길이를2의거듭제곱으로만들기.py) |
+  | [프로그래머스_LV.0_세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20세개의구분자.py) |
+  | [프로그래머스_LV.0_숨어있는 숫자의 덧셈(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | **LV.0** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20숨어있는숫자의덧셈(2).py) |
+  | [프로그래머스_LV.0_옷 가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818/solution_groups) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20옷가게할인받기.py) |
+  | [프로그래머스_LV.0_원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20원하는문자열찾기.py) |
+  | [프로그래머스_LV.0_중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | **LV.0** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20중복된문자제거.py) |
+  | [프로그래머스_LV.0_진료 순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | **LV.0** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20진료순서정하기.py) |
+  | [프로그래머스_LV.0_최댓값 만들기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | **LV.0** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20최댓값만들기(2).py) |
+  | [프로그래머스_LV.0_특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20특정문자열로끝나는가장긴부분문자열찾기.py) |
+  | [프로그래머스_LV.1_3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%203진법%20뒤집기.py) |
+  | [프로그래머스_LV.1_가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20가운데글자가져오기.py) |
+  | [프로그래머스_LV.1_가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20가장가까운같은글자.py) |
+  | [프로그래머스_LV.1_문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20문자열내마음대로정렬하기.py) |
+  | [프로그래머스_LV.1_삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20삼총사.py) |
+  | [프로그래머스_LV.1_숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20숫자문자열과영단어.py) |
+  | [프로그래머스_LV.1_예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20예산.py) |
+  | [프로그래머스_LV.1_이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20이상한문자만들기.py) |
+  | [프로그래머스_LV.1_카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20카드뭉치.py) |
+  | [프로그래머스_LV.1_행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20행렬의덧셈.py) |
   </div>
   </details>
