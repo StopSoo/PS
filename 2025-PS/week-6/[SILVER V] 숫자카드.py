@@ -6,8 +6,7 @@
 N = int(input())
 cards = set(map(int, input().split()))
 M = int(input())
-check_list = list(map(int, input().split()))
-answer = [0] * M
+check_list = list(map(int, input().split()))answer = [0] * M
 
 for i, check_num in enumerate(check_list):
   if check_num in cards: answer[i] = 1
