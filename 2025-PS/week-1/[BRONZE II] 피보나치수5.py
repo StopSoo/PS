@@ -1,3 +1,7 @@
+# https://www.acmicpc.net/problem/10870
+
+# 내 답안
+# 걸린 시간: 32ms
 # 재귀 함수를 사용하는 일반적인 방법
 # but, 연산 횟수가 너무 많음
 def Fibonacci(n):
@@ -8,7 +12,7 @@ def Fibonacci(n):
 n = int(input())
 print(Fibonacci(n))
 
-# 메모이제이션을 사용하는 방법 (*)
+# 메모이제이션을 사용하는 방법
 def Fibonacci(n):
   global arr
 
