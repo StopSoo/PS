@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/2525
+
+# 내 답안
 H, M = map(int, input().split())
 time = int(input())
 
