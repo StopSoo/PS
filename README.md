@@ -127,5 +127,86 @@
   | [프로그래머스_LV.1_이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20이상한문자만들기.py) |
   | [프로그래머스_LV.1_카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20카드뭉치.py) |
   | [프로그래머스_LV.1_행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | **LV.1** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.1%5D%20행렬의덧셈.py) |
+  | [프로그래머스_LV.0_2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | **LV.0** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%202의영역.py) |
+  | [프로그래머스_LV.0_구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20구슬을나누는경우의수.py) |
+  | [프로그래머스_LV.0_소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | **LV.0** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20소인수분해.py) |
+  | [프로그래머스_LV.0_이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-5/%5BLV.0%5D%20이진수더하기.py) |
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 6 (250203-250209)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [프로그래머스_LV.0_OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20OX퀴즈.py) |
+  | [프로그래머스_LV.0_그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20그림확대.py) |
+  | [프로그래머스_LV.0_등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20등수매기기.py) |
+  | [프로그래머스_LV.0_분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20분수의덧셈.py) |
+  | [프로그래머스_LV.0_외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20외계어사전.py) |
+  | [프로그래머스_LV.0_유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20유한소수판별하기.py) |
+  | [프로그래머스_LV.0_전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20전국대회선발고사.py) |
+  | [프로그래머스_LV.0_최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20최빈값구하기.py) |
+  | [프로그래머스_LV.0_치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20치킨쿠폰.py) |
+  | [프로그래머스_LV.0_캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20캐릭터의좌표.py) |
+  | [프로그래머스_LV.0_2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | **LV.0** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BLV.0%5D%20특이한정렬.py) |
+  | [백준_10810_공 넣기](https://www.acmicpc.net/problem/10810) | **BRONZE III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BBRONZE%20III%5D%20공넣기.py) |
+  | [백준_11718_그대로 출력하기](https://www.acmicpc.net/problem/11718) | **BRONZE III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BBRONZE%20III%5D%20그대로출력하기.py) |
+  | [백준_2675_문자열 반복](https://www.acmicpc.net/problem/2675) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BBRONZE%20II%5D%20문자열반복.py) |
+  | [백준_1157_단어 공부](https://www.acmicpc.net/problem/1157) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BBRONZE%20I%5D%20단어공부.py) |
+  | [백준_2869_달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BBRONZE%20I%5D%20달팽이는올라가고싶다.py) |
+  | [백준_1934_최소공배수](https://www.acmicpc.net/problem/1934) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BBRONZE%20I%5D%20최소공배수.py) |
+  | [백준_2447_별 찍기 - 10](https://www.acmicpc.net/problem/2447) | **GOLD V** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BGOLD%20V%5D%20별찍기-10.py) |
+  | [백준_1735_분수 합](https://www.acmicpc.net/problem/1735) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20III%5D%20분수합.py) |
+  | [백준_18870_좌표 압축](https://www.acmicpc.net/problem/18870) | **SILVER II** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20II%5D%20좌표압축.py) |
+  | [백준_2485_가로수](https://www.acmicpc.net/problem/2485) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20IV%5D%20가로수.py) |
+  | [백준_1268_대칭 차집합](https://www.acmicpc.net/problem/1269) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20IV%5D%20대칭차집합.py) |
+  | [백준_14425_문자열 집합](https://www.acmicpc.net/problem/14425) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20IV%5D%20문자열집합.py) |
+  | [백준_2839_설탕 배달](https://www.acmicpc.net/problem/2839) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20IV%5D%20설탕배달.py) |
+  | [백준_10828_스택](https://www.acmicpc.net/problem/10828) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20IV%5D%20스택.py) |
+  | [백준_1018_체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20IV%5D%20체스판다시칠하기.py) |
+  | [백준_1316_그룹 단어 체커](https://www.acmicpc.net/problem/1316) | **SILVER V** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20그룹단어체커.py) |
+  | [백준_10814_나이 순 정렬](https://www.acmicpc.net/problem/10814) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20나이순정렬.py) |
+  | [백준_25206_너의 평점은](https://www.acmicpc.net/problem/25206) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20너의평점은.py) |
+  | [백준_1010_다리 놓기](https://www.acmicpc.net/problem/1010) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20다리놓기.py) |
+  | [백준_1181_단어 정렬](https://www.acmicpc.net/problem/1181) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20단어정렬.py) |
+  | [백준_1193_분수 찾기](https://www.acmicpc.net/problem/1193) | **SILVER V** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20분수찾기.py) |
+  | [백준_2563_색종이](https://www.acmicpc.net/problem/2563) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20색종이.py) |
+  | [백준_10815_숫자 카드](https://www.acmicpc.net/problem/10815) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20숫자카드.py) |
+  | [백준_1436_영화감독 숌](https://www.acmicpc.net/problem/1436) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20영화감동숌.py) |
+  | [백준_11651_좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20좌표정렬하기2.py) |
+  | [백준_13241_최소공배수](https://www.acmicpc.net/problem/13241) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20최소공배수.py) |
+  | [백준_2941_크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20크로아티아알파벳.py) |
+  | [백준_7785_회사에 있는 사람](https://www.acmicpc.net/problem/7785) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-6/%5BSILVER%20V%5D%20회사에있는사람.py) |
+
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 7 (250210-250216)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 8 (250217-250223)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
   </div>
   </details>
