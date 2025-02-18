@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/2884
+
+# 내 답안
 # 빠진 경우의 수가 있진 않은지 잘 체크할 것
 H, M = map(int, input().split())
 
