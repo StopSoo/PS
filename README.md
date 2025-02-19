@@ -192,8 +192,33 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_10250_ACM 호텔](https://www.acmicpc.net/problem/10250) | **BRONZE III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20III%5D%20ACM호텔.py) |
+  | [백준_30802_웰컴 키트](https://www.acmicpc.net/problem/30802) | **BRONZE III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20III%5D%20웰컴%20키트.py) |
+  | [백준_4153_직각삼각형](https://www.acmicpc.net/problem/4153) | **BRONZE III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20III%5D%20직각삼각형.py) |
+  | [백준_8958_OX 퀴즈](https://www.acmicpc.net/problem/8958) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20OX퀴즈.py) |
+  | [백준_5622_다이얼](https://www.acmicpc.net/problem/5622) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20다이얼.py) |
+  | [백준_2231_분해합](https://www.acmicpc.net/problem/2231) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20분해합.py) |
+  | [백준_1152_단어의 개수](https://www.acmicpc.net/problem/1152) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20단어의개수.py) |
+  | [백준_2798_블랙잭](https://www.acmicpc.net/problem/2798) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20블랙잭.py) |
+  | [백준_2908_상수](https://www.acmicpc.net/problem/2908) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20상수.py) |
+  | [백준_1978_소수 찾기](https://www.acmicpc.net/problem/1978) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20소수찾기.py) |
+  | [백준_2577_숫자의 개수](https://www.acmicpc.net/problem/2577) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20숫자의개수.py) |
+  | [백준_10809_알파벳 찾기](https://www.acmicpc.net/problem/10809) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20알파벳찾기.py) |
+  | [백준_2920_음계](https://www.acmicpc.net/problem/2920) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20II%5D%20음계.py) |
+  | [백준_11720_숫자의 합](https://www.acmicpc.net/problem/11720) | **BRONZE IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20IV%5D%20숫자의합.py) |
+  | [백준_1037_약수](https://www.acmicpc.net/problem/1037) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20I%5D%20약수.py) |
+  | [백준_11050_이항 계수 1](https://www.acmicpc.net/problem/11050) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20I%5D%20이항계수1.py) |
+  | [백준_2609_최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20I%5D%20최대공약수와최소공배수.py) |
+  | [백준_1259_팰린드롬수](https://www.acmicpc.net/problem/1259) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20I%5D%20팰린드롬수.py) |
+  | [백준_2475_검증수](https://www.acmicpc.net/problem/2475) | **BRONZE V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BBRONZE%20V%5D%20검증수.py) |
+  | [백준_1463_1로 만들기](https://www.acmicpc.net/problem/) | **SILVER III** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BSILVER%20III%5D%201로만들기.py) |
+  | [백준_2193_이친수](https://www.acmicpc.net/problem/2193) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BSILVER%20III%5D%20이친수.py) |
+  | [백준_1003_피보나치 함수](https://www.acmicpc.net/problem/1003) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BSILVER%20III%5D%20피보나치함수.py) |
+  | [백준_9012_괄호](https://www.acmicpc.net/problem/9012) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BSILVER%20IV%5D%20괄호.py) |
+  | [백준_1920_수 찾기](https://www.acmicpc.net/problem/1920) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BSILVER%20IV%5D%20수찾기.py) |
+  | [백준_25192_인사성 밝은 곰곰이](https://www.acmicpc.net/problem/) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BSILVER%20IV%5D%20인사성밝은곰곰이.py) |
+  | [백준_10773_제로](https://www.acmicpc.net/problem/10773) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BSILVER%20IV%5D%20제로.py) |
+  | [백준_1835_카드](https://www.acmicpc.net/problem/1835) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-7/%5BSILVER%20IV%5D%20카드.py) |
   
   </div>
   </details>
