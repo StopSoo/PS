@@ -230,6 +230,33 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
+  | [백준_2444_별 찍기 -7](https://www.acmicpc.net/problem/2444) | **BRONZE III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BBRONZE%20III%5D%20별찍기-7.py) |
+  | [백준_2292_벌집](https://www.acmicpc.net/problem/2292) | **BRONZE II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BBRONZE%20II%5D%20벌집.py) |
+  | [백준_28702_FizzBuzz](https://www.acmicpc.net/problem/28702) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BBRONZE%20I%5D%20FizzBuzz.py) |
+  | [백준_2775_부녀회장이 될 테야](https://www.acmicpc.net/problem/2775) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BBRONZE%20I%5D%20부녀회장이될테야.py) |
+  | [백준_10989_수 정렬하기 3](https://www.acmicpc.net/problem/10989) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BBRONZE%20I%5D%20수정렬하기3.py) |
+  | [백준_1929_소수 구하기](https://www.acmicpc.net/problem/1929) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20III%5D%20소수구하기.py) |
+  | [백준_2108_통계학](https://www.acmicpc.net/problem/2108) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20III%5D%20통계학.py) |
+  | [백준_1874_스택 수열](https://www.acmicpc.net/problem/1874) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20II%5D%20스택수열.py) |
+  | [백준_4949_균형잡힌 세상](https://www.acmicpc.net/problem/4949) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20IV%5D%20균형잡힌세상.py) |
+  | [백준_10816_숫자 카드 2](https://www.acmicpc.net/problem/10816) | **SILVER IV** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20IV%5D%20숫자카드2.py) |
+  | [백준_11866_요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20IV%5D%20요세푸스문제0.py) |
+  | [백준_2164_카드 2](https://www.acmicpc.net/problem/2164) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20IV%5D%20카드2.py) |
+  | [백준_10845_큐](https://www.acmicpc.net/problem/10845) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20IV%5D%20큐.py) |
+  | [백준_7568_덩치](https://www.acmicpc.net/problem/7568) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20V%5D%20덩치.py) |
+  | [백준_2751_수 정렬하기 2](https://www.acmicpc.net/problem/2751) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20V%5D%20수정렬하기2.py) |
+  | [백준_1676_팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-8/%5BSILVER%20V%5D%20팩토리얼0의개수.py) |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 9 (250224-250302)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
   | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
   | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
   
