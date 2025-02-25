@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/2480
+
+# 내 답안
 # set을 활용한 풀이 체크 (*)
 a, b, c = map(int, input().split()) # 주사위 눈 세 개
 dice = [a, b, c]
