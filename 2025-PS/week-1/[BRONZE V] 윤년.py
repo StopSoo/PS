@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/2753
+
+# 내 답안
 # 파이썬은 &&와 || 대신 and와 or 사용
 year = int(input())
 
