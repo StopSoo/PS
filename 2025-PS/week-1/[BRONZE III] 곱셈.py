@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2588
+
 # 풀이 1
 n = int(input())
 m = input()
