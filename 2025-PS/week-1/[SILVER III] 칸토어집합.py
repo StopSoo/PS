@@ -1,11 +1,13 @@
-# 재귀함수 사용
-# 반복적인 구조 파악 (*)
+# https://www.acmicpc.net/problem/4779
+
+# 내 답안
+# 알고리즘 유형: 재귀함수 사용 / 분할 정복
 # 입출력 조건을 잘 읽자 ^.^
 def f(n):
   if n == 0:
     return "-"
   else:
-    return f(n-1) + " " * (3 ** (n-1)) + f(n-1)
+    return f(n-1) + (" " * (3 ** (n-1))) + f(n-1)
 
 while True:
   try:
