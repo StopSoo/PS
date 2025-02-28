@@ -36,3 +36,12 @@ else: # +, - 둘 다 있을 때
     equation = equation[:ind_op_m] + '-' + '(' + equation[ind_op_m+1:ind_op_p] + '+' + equation[ind_op_p+1:next_op_ind] + ')' + equation[next_op_ind:]
     print(equation)
     print(eval(equation))
+
+# 정답 코드
+# 아이디어: 덧셈으로 연결된 모든 숫자들을 가장 먼저 더한 후 뺄셈을 하는 것 (!!!)
+expression = input()
+exp = expression.split('-')
+ret = sum(map(int, exp[0].split('+')))
+for e in exp[1:]:
+  ret -= sum(map(int, e.split('+')))
+print(ret)
