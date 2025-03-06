@@ -23,3 +23,20 @@ for _ in range(q):
   
   if int(l) != 0: print(str(dt[alpha][int(r)] - dt[alpha][int(l)-1]) + '\n')
   else: print(str(dt[alpha][int(r)]) + '\n')
+
+# 100점 답안
+import sys
+input = sys.stdin.readline
+
+s = input().strip()
+count = [[0] * 26]
+
+q = int(input().strip())
+for i, ch in enumerate(s):
+  count.append(count[len(count) - 1][:])
+  count[i + 1][ord(ch) - 97] += 1
+
+for _ in range(q):
+  alpha, l, r = input().strip().split()
+  answer = count[int(r) + 1][ord(alpha) - 97] - count[int(l)][ord(alpha) - 97]
+  print(answer)
