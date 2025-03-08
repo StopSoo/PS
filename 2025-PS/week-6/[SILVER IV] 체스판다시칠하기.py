@@ -22,3 +22,15 @@ N, M = map(int, input().split())
 array = []
 for i in range(N): array.append(input())
 print(check(N, M, array))
+
+# 보충) ans1, ans2 배열을 저렇게 수작업으로 구현해도 되지만, 다음과 같이 구현할 수도 있다.
+# 인덱스 합의 짝홀 여부에 따라 값을 설정하는 방식 (!)
+chess1 = [['' for _ in range(8)] for _ in range(8)]
+chess2 = [['' for _ in range(8)] for _ in range(8)]
+
+for i in range(8):
+  for j in range(8):
+    chess1[i][j] = ('W' if (i+j)%2 == 0 else 'B')
+    chess2[i][j] = ('B' if (i+j)%2 == 0 else 'W')
+
+# 추가로, 정답과 다른 부분의 개수 체크하는 로직은 저렇게 함수로 따로 뺴는 것이 가독성 면에서 훨씬 좋다.
