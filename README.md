@@ -306,6 +306,45 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
+  | [백준_2720_세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) | **BRONZE III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BBRONZE%20III%5D%20세탁소사장동혁.py) |
+  | [백준_2903_중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) | **BRONZE III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BBRONZE%20III%5D%20중앙이동알고리즘.py) |
+  | [백준_11005_진법 변환 2](https://www.acmicpc.net/problem/11005) | **BRONZE I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BBRONZE%20I%5D%20진법변환2.py) |
+  | [백준_9251_LCS](https://www.acmicpc.net/problem/9251) | **GOLD V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BGOLD%20V%5D%20LCS.py) |
+  | [백준_1074_Z](https://www.acmicpc.net/problem/1074) | **GOLD V** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BGOLD%20V%5D%20Z.py) |
+  | [백준_7576_토마토](https://www.acmicpc.net/problem/7576) | **GOLD V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BGOLD%20V%5D%20토마토.py) |
+  | [백준_12865_평범한 배낭](https://www.acmicpc.net/problem/12865) | **GOLD V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BGOLD%20V%5D%20평범한배낭.py) |
+  | [백준_11003_최솟값 찾기](https://www.acmicpc.net/problem/11003) | **PLATINUM V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BPLATINUM%20V%5D%20최솟값찾기.py) |
+  | [백준_11726_2xn 타일링](https://www.acmicpc.net/problem/11726) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20III%5D%202xn타일링.py) |
+  | [백준_24511_queuestack](https://www.acmicpc.net/problem/24511) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20III%5D%20queuestack.py) |
+  | [백준_2559_수열](https://www.acmicpc.net/problem/2559) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20III%5D%20수열.py) |
+  | [백준_2346_풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20III%5D%20풍선터뜨리기.py) |
+  | [백준_1021_회전하는 큐](https://www.acmicpc.net/problem/1021) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20III%5D%20회전하는큐.py) |
+  | [백준_11053_가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | **SILVER II** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20II%5D%20가장긴증가하는부분수열.py) |
+  | [백준_3085_사탕 게임](https://www.acmicpc.net/problem/3085) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20II%5D%20사탕게임.py) |
+  | [백준_1541_잃어버린 괄호](https://www.acmicpc.net/problem/1541) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20II%5D%20잃어버린괄호.py) |
+  | [백준_11501_주식](https://www.acmicpc.net/problem/11501) | **SILVER II** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20II%5D%20주식.py) |
+  | [백준_11279_최대 힙](https://www.acmicpc.net/problem/11279) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20II%5D%20최대힙.py) |
+  | [백준_1927_최소 힙](https://www.acmicpc.net/problem/1927) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20II%5D%20최소힙.py) |
+  | [백준_10866_덱](https://www.acmicpc.net/problem/10866) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20IV%5D%20덱.py) |
+  | [백준_28279_덱2](https://www.acmicpc.net/problem/28279) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20IV%5D%20덱2.py) |
+  | [백준_28278_스택2](https://www.acmicpc.net/problem/28278) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20IV%5D%20스택2.py) |
+  | [백준_18258_큐2](https://www.acmicpc.net/problem/18258) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20IV%5D%20큐2.py) |
+  | [백준_11660_구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20I%5D%20구간합구하기5.py) |
+  | [백준_2178_미로 탐색](https://www.acmicpc.net/problem/2178) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20I%5D%20미로탐색.py) |
+  | [백준_1697_숨바꼭질](https://www.acmicpc.net/problem/1697) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20I%5D%20숨바꼭질.py) |
+  | [백준_14940_쉬운 최단거리](https://www.acmicpc.net/problem/14940) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20I%5D%20쉬운최단거리.py) |
+  | [백준_16139_인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-10/%5BSILVER%20I%5D%20인간-컴퓨터상호작용.py) |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 11 (250310-250316)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
   | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
   | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
   
