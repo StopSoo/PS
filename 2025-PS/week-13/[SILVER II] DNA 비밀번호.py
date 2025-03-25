@@ -31,7 +31,7 @@ for i in range(S-P): # 누적합을 활용한 슬라이딩 윈도우
 print(answer)
 
 # 다른 사람의 답안
-# 걸린 시간:
+# 걸린 시간: 476ms
 # 누적합을 이용한 슬라이딩 윈도우라는 점에서는 같으나, 딕셔너리와 deque를 사용했기 때문에 내 코드보다 시간 복잡도가 낮다 (!)
 from collections import deque
 
