@@ -1,7 +1,7 @@
 # https://www.acmicpc.net/problem/9372
 
 # 내 답안
-# DFS로 풀었는데 시간초과/메모리초과 나서 질문 게시판을 보니 ...
+# DFS로 풀었는데 시간초과/메모리초과 나서 질문 게시판을 보니 기획 의도가 있었다 ...!
 import sys
 input = sys.stdin.readline
 sys.setrecursionlimit(1000000)
