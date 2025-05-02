@@ -39,3 +39,46 @@ while i < n and j < m :
     i += 1
 
 print(answer)
+
+# 트라이
+# 접두사 판별 문제는 트라이에 최적화된 대표 문제 중 하나이다(!)
+# 트라이에 집합 S를 넣고, 검사 문자열을 트라이를 타고 내려가면서 접두사로 존재하는지를 확인하면 된다(!)
+import sys
+input = sys.stdin.readline
+
+class TrieNode:
+  def __init__(self):
+    self.children = {}
+
+class Trie:
+  def __init__(self):
+    self.root = TrieNode()
+  
+  def insert(self, word):
+    node = self.root
+    for ch in word:
+      if ch not in node.children:
+        node.children[ch] = TrieNode()
+      node = node.children[ch]
+  
+  def is_prefix(self, word):
+    node = self.root
+    for ch in word:
+      if ch not in node.children:
+        return False
+      node = node.children[ch]
+    return True
+
+N, M = map(int, input().split())
+trie = Trie()
+
+for _ in range(N):
+  s = input().strip()
+  trie.insert(s)
+
+count = 0
+for _ in range(M):
+  word = input().strip()
+  if trie.is_prefix(word): count += 1
+
+print(count)
