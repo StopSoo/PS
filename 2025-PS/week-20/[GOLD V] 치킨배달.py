@@ -82,3 +82,48 @@ for chicken_comb in combinations(chickens, M):
   answer = min(answer, city_dist)
 
 print(answer)
+
+# 백트래킹 풀이
+import sys
+input = sys.stdin.readline
+
+N, M = map(int, input().split())
+miro = [list(map(int, input().split())) for _ in range(N)]
+
+houses = []
+chickens = []
+
+# 집과 치킨집 위치 저장
+for i in range(N):
+  for j in range(N):
+    if miro[i][j] == 1: houses.append((i, j))
+    elif miro[i][j] == 2: chickens.append((i, j))
+
+answer = float('inf')
+selected = []
+
+def get_city_chicken_distance(selected_chickens):
+  total = 0
+  for hy, hx in houses:
+    min_dist = float('inf')
+    for cy, cx in selected_chickens:
+      dist = abs(hy - cy) + abs(hx - cx)
+      min_dist = min(min_dist, dist)
+    total += min_dist
+  return total
+
+def backtrack(start, selected):
+  global answer
+
+  if len(selected) == M: # M개의 치킨집 선택 완료
+    city_dist = get_city_chicken_distance(selected)
+    answer = min(answer, city_dist)
+    return
+
+  for i in range(start, len(chickens)):
+    selected.append(chickens[i])
+    backtrack(i + 1, selected)
+    selected.pop()
+
+backtrack(0, [])
+print(answer)
