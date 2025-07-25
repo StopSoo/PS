@@ -584,6 +584,157 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
+  | [백준_10867_중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20V%5D%20중복빼고정렬하기.py) |
+  | [백준_11728_배열 합치기](https://www.acmicpc.net/problem/11728) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20V%5D%20배열합치기.py) |
+  | [백준_1380_귀걸이](https://www.acmicpc.net/problem/1380) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20V%5D%20귀걸이.py) |
+  | [백준_3986_좋은 단어](https://www.acmicpc.net/problem/3986) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20IV%5D%20좋은단어.py) |
+  | [백준_2670_연속 부분 최대곱](https://www.acmicpc.net/problem/2670) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20IV%5D%20연속부분최대곱.py) |
+  | [백준_2776_암기왕](https://www.acmicpc.net/problem/2776) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20IV%5D%20암기왕.py) |
+  | [백준_1935_후위 표기식 2](https://www.acmicpc.net/problem/1935) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20III%5D%20후위표기식2.py) |
+  | [백준_20310_타노스](https://www.acmicpc.net/problem/20310) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20III%5D%20타노스.py) |
+  | [백준_20365_블로그 2](https://www.acmicpc.net/problem/20365) | **SILVER III** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20III%5D%20블로그2.py) |
+  | [백준_7795_먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20III%5D%20먹을것인가먹힐것인가.py) |
+  | [백준_14494_다이나믹이 뭐예요?](https://www.acmicpc.net/problem/14494) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20III%5D%20다이나믹이뭐예요%3F.py) |
+  | [백준_17952_과제는 끝나지 않아](https://www.acmicpc.net/problem/17952) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20III%5D%20과제는끝나지않아.py) |
+  | [백준_10799_쇠막대기](https://www.acmicpc.net/problem/10799) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20II%5D%20쇠막대기.py) |
+  | [백준_19583_싸이버 개강 총회](https://www.acmicpc.net/problem/19583) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20II%5D%20싸이버개강총회.py) |
+  | [백준_1283_단축키 지정](https://www.acmicpc.net/problem/1283) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20I%5D%20단축키지정.py) |
+  | [백준_14426_접두사 찾기](https://www.acmicpc.net/problem/14426) | **SILVER I** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20I%5D%20접두사찾기.py) |
+  | [백준_2688_줄어들지 않아](https://www.acmicpc.net/problem/2688) | **SILVER I** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20I%5D%20줄어들지않아.py) |
+  | [백준_11497_통나무 건너뛰기](https://www.acmicpc.net/problem/11497) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BSILVER%20I%5D%20통나무건너뛰기.py) |
+  | [백준_2493_탑](https://www.acmicpc.net/problem/2493) | **GOLD V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BGOLD%20V%5D%20탑.py) |
+  | [백준_9935_문자열 폭발](https://www.acmicpc.net/problem/9935) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BGOLD%20IV%5D%20문자열폭발.py) |
+  | [백준_1043_거짓말](https://www.acmicpc.net/problem/1043) | **GOLD IV** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BGOLD%20IV%5D%20거짓말.py) |
+  | [백준_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | **GOLD III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BGOLD%20III%5D%20벽부수고이동하기.py) |
+  | [백준_1918_후위 표기식](https://www.acmicpc.net/problem/1918) | **GOLD II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-18/%5BGOLD%20II%5D%20후위표기식.py) |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 19 (250505-250511)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 20 (250512-250518)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 21 (250519-250525)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 22 (250526-250601)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 23 (250602-250608)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 24 (250609-250615)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 25 (250616-250622)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 26 (250623-250629)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 27 (250630-250706)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 30 (250721-250727)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
   | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
   | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
   
