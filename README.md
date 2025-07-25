@@ -618,8 +618,17 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_1065_한수](https://www.acmicpc.net/problem/1065) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20IV%5D%20한수.py) |
+  | [백준_9324_진짜 메시지](https://www.acmicpc.net/problem/9324) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20IV%5D%20진짜메시지.py) |
+  | [백준_2003_수들의 합 2](https://www.acmicpc.net/problem/2003) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20IV%5D%20수들의합2.py) |
+  | [백준_8394_약수](https://www.acmicpc.net/problem/8394) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20III%5D%20악수.py) |
+  | [백준_3273_두 수의 합](https://www.acmicpc.net/problem/3273) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20III%5D%20두수의합.py) |
+  | [백준_2290_LCD Test](https://www.acmicpc.net/problem/2290) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20II%5D%20LCDTest.py) |
+  | [백준_11568_민균이의 계략](https://www.acmicpc.net/problem/11568) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20II%5D%20민균이의계략.py) |
+  | [백준_12933_오리](https://www.acmicpc.net/problem/12933) | **SILVER II** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20II%5D%20오리.py) |
+  | [백준_5397_키로거](https://www.acmicpc.net/problem/5397) | **SILVER II** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20II%5D%20키로거.py) |
+  | [백준_2841_외계인의 기타 연주](https://www.acmicpc.net/problem/2841) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BSILVER%20I%5D%20외계인의기타연주.py) |
+  | [백준_1753_최단 경로](https://www.acmicpc.net/problem/1753) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-19/%5BGOLD%20IV%5D%20최단경로.py) |
   
   </div>
   </details>
@@ -631,8 +640,30 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_8892_팰린드롬](https://www.acmicpc.net/problem/8892) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20V%5D%20팰린드롬.py) |
+  | [백준_14606_피자(Small)](https://www.acmicpc.net/problem/14606) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20V%5D%20피자(Small).py) |
+  | [백준_10994_별 찍기 - 19](https://www.acmicpc.net/problem/10994) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20IV%5D%20별찍기-19.py) |
+  | [백준_2512_예산](https://www.acmicpc.net/problem/2512) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20II%5D%20예산.py) |
+  | [백준_14430_자원 캐기](https://www.acmicpc.net/problem/14430) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20II%5D%20자원캐기.py) |
+  | [백준_3107_IPv6](https://www.acmicpc.net/problem/3107) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20I%5D%20IPv6.py) |
+  | [백준_1926_그림](https://www.acmicpc.net/problem/1926) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20I%5D%20그림.py) |
+  | [백준_12849_본대 산책](https://www.acmicpc.net/problem/12849) | **SILVER I** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20I%5D%20본대산책.py) |
+  | [백준_16174_점프왕 쩰리(Large)](https://www.acmicpc.net/problem/16174) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20I%5D%20점프왕쩰리(Large).py) |
+  | [백준_1992_쿼드트리](https://www.acmicpc.net/problem/1992) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20I%5D%20쿼드트리.py) |
+  | [백준_2257_화학 식량](https://www.acmicpc.net/problem/2257) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20I%5D%20화학식량.py) |
+  | [백준_2531_회전초밥](https://www.acmicpc.net/problem/2531) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BSILVER%20I%5D%20회전초밥.py) |
+  | [백준_1916_최소 비용 구하기](https://www.acmicpc.net/problem/1916) | **GOLD V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20V%5D%20최소비용구하기.py) |
+  | [백준_15686_치킨 배달](https://www.acmicpc.net/problem/15686) | **GOLD V** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20V%5D%20치킨배달.py) |
+  | [백준_2225_합 분해](https://www.acmicpc.net/problem/2225) | **GOLD V** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20V%5D%20합분해.py) |
+  | [백준_17609_회문](https://www.acmicpc.net/problem/17609) | **GOLD V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20V%5D%20회문.py) |
+  | [백준_2800_괄호 제거](https://www.acmicpc.net/problem/) | **GOLD IV** | [✔]() |
+  | [백준_2448_별 찍기 - 11](https://www.acmicpc.net/problem/2448) | **GOLD IV** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20IV%5D%20별찍기-11.py) |
+  | [백준_14502_연구소](https://www.acmicpc.net/problem/14502) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20IV%5D%20연구소.py) |
+  | [백준_17298_오큰수](https://www.acmicpc.net/problem/17298) | **GOLD IV** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20IV%5D%20오큰수.py) |
+  | [백준_1967_트리의 지름](https://www.acmicpc.net/problem/1967) | **GOLD IV** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20IV%5D%20트리의지름.py) |
+  | [백준_15961_회전 초밥](https://www.acmicpc.net/problem/15961) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20IV%5D%20회전초밥.py) |
+  | [백준_1238_파티](https://www.acmicpc.net/problem/1238) | **GOLD III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20III%5D%20파티.py) |
+  | [백준_1167_트리의 지름](https://www.acmicpc.net/problem/) | **GOLD II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-20/%5BGOLD%20II%5D%20트리의지름.py) |
   
   </div>
   </details>
