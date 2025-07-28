@@ -714,8 +714,13 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_2167_2차원 배열의 합](https://www.acmicpc.net/problem/2167) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-24/%5BSILVER%20V%5D%202차원%20배열의%20합.py) |
+  | [백준_1972_놀라운 문자열](https://www.acmicpc.net/problem/1972) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-24/%5BSILVER%20III%5D%20놀라운문자열.py) |
+  | [백준_2644_촌수 계산](https://www.acmicpc.net/problem/2644) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-24/%5BSILVER%20II%5D%20촌수계산.py) |
+  | [백준_2504_괄호의 값](https://www.acmicpc.net/problem/2504) | **GOLD V** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-24/%5BGOLD%20V%5D%20괄호의값.py) |
+  | [백준_10830_행렬 제곱](https://www.acmicpc.net/problem/10830) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-24/%5BGOLD%20IV%5D%20행렬제곱.py) |
+  | [백준_2636_치즈](https://www.acmicpc.net/problem/2636) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-24/%5BGOLD%20IV%5D%20치즈.py) |
+  | [백준_16236_아기 상어](https://www.acmicpc.net/problem/16236) | **GOLD III** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-24/%5BGOLD%20III%5D%20아기상어.py) |
   
   </div>
   </details>
@@ -727,8 +732,11 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_5426_비밀 편지](https://www.acmicpc.net/problem/5426) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-25/%5BSILVER%20V%5D%20비밀편지.py) |
+  | [백준_2890_카약](https://www.acmicpc.net/problem/2890) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-25/%5BSILVER%20V%5D%20카약.py) |
+  | [백준_27964_콰트로 치즈 피자](https://www.acmicpc.net/problem/27964) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-25/%5BSILVER%20V%5D%20콰트로치즈피자.py) |
+  | [백준_18352_특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-25/%5BSILVER%20II%5D%20특정거리의도시찾기.py) |
+  | [백준_2866_문자열 잘라내기](https://www.acmicpc.net/problem/2866) | **GOLD V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-25/%5BGOLD%20V%5D%20문자열잘라내기.py) |
   
   </div>
   </details>
@@ -740,8 +748,14 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_14889_스타트와 링크](https://www.acmicpc.net/problem/14889) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-26/%5BSILVER%20I%5D%2014889.py) |
+  | [백준_15900_나무 탈출](https://www.acmicpc.net/problem/15900) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-26/%5BSILVER%20I%5D%20나무탈출.py) |
+  | [백준_9081_단어 맞추기](https://www.acmicpc.net/problem/9081) | **SILVER I** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-26/%5BSILVER%20I%5D%20단어맞추기.py) |
+  | [백준_14675_단절점과 단절선](https://www.acmicpc.net/problem/14675) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-26/%5BSILVER%20I%5D%20단절점과%20단절선.py) |
+  | [백준_11000_강의실 배정](https://www.acmicpc.net/problem/11000) | **GOLD V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-26/%5BGOLD%20V%5D%20강의실배정.py) |
+  | [백준_2469_사다리 타기](https://www.acmicpc.net/problem/2469) | **GOLD V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-26/%5BGOLD%20V%5D%20사다리타기.py) |
+  | [백준_5639_이진 검색 트리](https://www.acmicpc.net/problem/5639) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-26/%5BGOLD%20IV%5D%20이진검색트리.py) |
+  | [백준_1504_특정한 최단 경로](https://www.acmicpc.net/problem/1504) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-26/%5BGOLD%20IV%5D%20특정한최단경로.py) |
   
   </div>
   </details>
@@ -753,14 +767,33 @@
     
   | 문제 | 레벨 | 코드 |
   | :----------- | :-----------: | :-----------: |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
-  | [백준_](https://www.acmicpc.net/problem/) | **SILVER V** | [✔]() |
+  | [백준_14244_트리 만들기](https://www.acmicpc.net/problem/14244) | **SILVER IV** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-27/%5BSILVER%20IV%5D%20트리만들기.py) |
+  | [백준_9658_돌 게임 4](https://www.acmicpc.net/problem/9658) | **SILVER II** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-27/%5BSILVER%20II%5D%20돌게임4.py) |
+  | [백준_20364_부동산 다툼](https://www.acmicpc.net/problem/20364) | **SILVER I** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-27/%5BSILVER%20I%5D%20부동산다툼.py) |
+  | [백준_16120_PPAP](https://www.acmicpc.net/problem/16120) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-27/%5BGOLD%20IV%5D%20PPAP.py) |
+  | [백준_17144_미세먼지 안녕](https://www.acmicpc.net/problem/17144) | **GOLD IV** | [x](https://github.com/StopSoo/PS/blob/main/2025-PS/week-27/%5BGOLD%20IV%5D%20미세먼지안녕.py) |
   
   </div>
   </details>
 
   <details>
   <summary>Week 30 (250721-250727)</summary>
+  <div>
+  <br/>
+    
+  | 문제 | 레벨 | 코드 |
+  | :----------- | :-----------: | :-----------: |
+  | [백준_9322_철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322) | **SILVER IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-30/%5BSILVER%20IV%5D%20철벽보안알고리즘.py) |
+  | [백준_11652_카드](https://www.acmicpc.net/problem/11652) | **SILVER V** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-30/%5BSILVER%20IV%5D%20카드.py) |
+  | [백준_11441_합 구하기](https://www.acmicpc.net/problem/11441) | **SILVER III** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-30/%5BSILVER%20III%5D%20합구하기.py) |
+  | [백준_4963_섬의 개수](https://www.acmicpc.net/problem/4963) | **SILVER II** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-30/%5BSILVER%20II%5D%20섬의개수.py) |
+  | [백준_1753_최단 경로](https://www.acmicpc.net/problem/1753) | **GOLD IV** | [✔](https://github.com/StopSoo/PS/blob/main/2025-PS/week-30/%5BGOLD%20IV%5D%20최단경로.py) |
+
+  </div>
+  </details>
+
+  <details>
+  <summary>Week 31 (250728-250803)</summary>
   <div>
   <br/>
     
