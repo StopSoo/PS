@@ -1,7 +1,7 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/181916?language=javascript
 
 // 너무 시간이 오래 걸려서 도움 받음 => JS 문법과 함께 복습 필요 !!
-// 파이썬 파일과 함께 복습하기!!!!!!
+// 파이썬 파일과 함께 복습하기
 function solution(a, b, c, d) {
     const dice = [a, b, c, d];
     const counts = {}; // object
