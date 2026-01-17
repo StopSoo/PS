@@ -42,7 +42,6 @@ for _ in range(t):
     a, b = map(int, input().split())
     graph[a].append(b)
     graph[b].append(a)
-
 # BFS
 deq = deque([1])
 visited = [False] * (n + 1)
@@ -54,6 +53,37 @@ while deq:
     for node in graph[now]:
         if not visited[node]:
             deq.append(node)
-            visited[node] = True
+            visited[node] = True # 중복 제거 필요 !!
 
 print(sum(visited) - 1)
+
+# 좀 더 개선된 코드
+import sys
+from collections import defaultdict, deque
+
+input = sys.stdin.readline
+
+n = int(input())
+t = int(input())
+graph = defaultdict(list)
+for _ in range(t):
+    a, b = map(int, input().split())
+    graph[a].append(b)
+    graph[b].append(a)
+
+def bfs(start):
+    deq = deque([start])
+    visited = [False] * (n + 1)
+    visited[start] = True
+    count = 0
+    
+    while deq:
+        now = deq.popleft()
+        for node in graph[now]:
+            if not visited[node]:
+                visited[node] = True
+                deq.append(node)
+                count += 1 # 1번 제외한 전염 수 바로 카운트
+    return count
+
+print(bfs(1))
