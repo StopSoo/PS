@@ -87,3 +87,31 @@ def bfs(start):
     return count
 
 print(bfs(1))
+
+# 260404 풀이 (복습)
+import sys
+from collections import deque, defaultdict
+
+input = sys.stdin.readline
+
+n = int(input()) # 컴퓨터의 수
+c = int(input()) # 컴퓨터 쌍의 수
+graph = defaultdict(list)
+
+for _ in range(c):
+    a, b = map(int, input().strip().split())
+    graph[a].append(b)
+    graph[b].append(a)
+
+deq = deque([1]) # 1번 컴퓨터가 감염된 상태로 시작
+visited = [0] * (n + 1) # 감염 여부 저장
+visited[1] = 1
+
+while deq:
+    now = deq.popleft()
+    for com in graph[now]:
+        if not visited[com]:
+            visited[com] = 1
+            deq.append(com)
+
+print(sum(visited) - 1)
