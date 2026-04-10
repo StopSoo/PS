@@ -20,6 +20,6 @@ def solution(keymap, targets):
                 s = -1
                 break
         
-        answer.append(-1)
+        answer.append(s)
     
     return answer
