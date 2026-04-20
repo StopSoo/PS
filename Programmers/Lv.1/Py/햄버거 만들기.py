@@ -14,3 +14,15 @@ def solution(ingredient):
             temp = temp[:-4]
     
     return answer
+
+# 다른 답변: 스택을 활용한다 (!)
+def solution2(ingredient):
+    s = []
+    cnt = 0
+    for i in ingredient:
+        s.append(i)
+        if s[-4:] == [1, 2, 3, 1]:
+            cnt += 1
+            for _ in range(4): s.pop()
+    
+    return cnt
